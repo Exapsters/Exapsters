@@ -1,1 +1,1 @@
-![](https://github.com/Exapsters/Exapsters/assets/cat_maid.gif)
+![](https://github.com/Exapsters/Exapsters/blob/main/assets/cat_maid.gif)
